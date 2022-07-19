@@ -1,0 +1,5 @@
+1.C# Program create a class student with a data members roll 
+no. , name, subject 1 marks, subject 2 marks, subject 3 marks,
+obtained marks and percentage and their grade provide 
+members function. Calculate marks and calculate percentage 
+to get the grade.
